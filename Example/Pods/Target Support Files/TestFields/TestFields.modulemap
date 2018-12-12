@@ -1,0 +1,6 @@
+framework module TestFields {
+  umbrella header "TestFields-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TestFields",
+  "version": "0.1.0",
+  "summary": "A short description of TestFields.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Karagiorgos, Michalis, Vodafone Greece/TestFields",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Karagiorgos, Michalis, Vodafone Greece": "michalis.karagiorgos@vodafone.com"
+  },
+  "source": {
+    "git": "https://github.com/Karagiorgos, Michalis, Vodafone Greece/TestFields.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestFields/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - TestFields (0.1.0)
+
+DEPENDENCIES:
+  - TestFields (from `../`)
+
+EXTERNAL SOURCES:
+  TestFields:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestFields: 3cccc7e8f6b3f8b120d3154ca50fd96b113b17ab
+
+PODFILE CHECKSUM: 02f0c55cf4025c751c90a89cedb7ed863e59dff5
+
+COCOAPODS: 1.5.3
