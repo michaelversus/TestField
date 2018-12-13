@@ -8,16 +8,20 @@
 
 import UIKit
 
+// Step 1: Import the pod!
+import TestFields
+
 class ViewController: UIViewController {
 
+    // Step 2: Declare or connect an image view. Set height and width to same value
+    @IBOutlet weak var imageView: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-    }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+        
+        // Step 3: call the round method
+        imageView.roundViewWith(borderColor: .white, borderWidth: 5.0)
+        
     }
 
 }

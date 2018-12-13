@@ -46,7 +46,7 @@
 		B958AC8B9AE0A09E2583BE2D /* Pods-TestFields_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestFields_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TestFields_Tests/Pods-TestFields_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		BEE20084728A1CDCBE81BE7E /* Pods_TestFields_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestFields_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E20E84A0AFCE863BCB0E04FF /* Pods-TestFields_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestFields_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-TestFields_Example/Pods-TestFields_Example.release.xcconfig"; sourceTree = "<group>"; };
-		F5FA5F2D724E9C3F1ECAC869 /* TestFields.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TestFields.podspec; path = ../TestFields.podspec; sourceTree = "<group>"; };
+		F5FA5F2D724E9C3F1ECAC869 /* TestFields.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TestFields.podspec; path = ../TestFields.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
